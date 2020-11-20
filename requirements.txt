@@ -1,0 +1,16 @@
+# general python packages
+os
+numpy
+pandas
+matplotlib
+pickle
+scipy
+
+# model specific modules through pip
+interpret
+sklearn
+xgboost
+
+# custom model specific modules
+cplex           # Check the following link for further instructions https://github.com/IBMPredictiveAnalytics/Simple_Linear_Programming_with_CPLEX/blob/master/cplex_instruction.md
+slim_python     # Can be found in the research/slim_packages folder, use slim_python3
